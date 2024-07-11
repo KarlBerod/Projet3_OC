@@ -1,0 +1,12 @@
+@media (max-width: 366px){
+
+    .filtres-button .filtres-texte{
+        font-size: 10px;
+        font-weight: 600;
+    }
+
+    .filtres-button{
+        gap: 10px;
+    }
+}
+

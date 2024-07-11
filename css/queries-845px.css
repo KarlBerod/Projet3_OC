@@ -1,0 +1,14 @@
+/*sections entre 845 et 767 px pour que les filtres restent sur une seule ligne peu importe les dimensions de l'appareil*/
+@media (max-width: 845px){
+    .main-container{
+        padding: 0;
+    }
+
+    header, .main-title, .recherche, .logements-info, .hebergements-and-populaires, .activites, footer{    
+        padding: 0 50px;
+    }
+
+    .filtres{
+        padding-left: 50px;
+    }
+}
